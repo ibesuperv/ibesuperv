@@ -11,7 +11,12 @@ Highly driven Computer Science Engineering student with a robust foundation in f
 
 <div align="center">
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43Y2ZnamZhanB1MWdoc3A5ZDJ1ZjZhd3lpanNyNTlwOHltY3N6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43Y2ZnamZhanB1MWdoc3A5ZDJ1ZjZhd3lpanNyNTlwOHltY3N6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43Y2ZnamZhanB1MWdoc3A5ZDJ1ZjZhd3lpanNyNTlwOHltY3N6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43Y2ZnamZhanB1MWdoc3A5ZDJ1ZjZhd3lpanNyNTlwOHltY3N6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW43Y2ZnamZhanB1MWdoc3A5ZDJ1ZjZhd3lpanNyNTlwOHltY3N6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  
 </div>
 
 # 🌐 Socials:
