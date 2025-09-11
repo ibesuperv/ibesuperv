@@ -22,6 +22,12 @@ Highly driven Computer Science Engineering student with a robust foundation in f
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibsuperv/ibsuperv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibsuperv/ibsuperv/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ibsuperv/ibsuperv/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 # 💻 Tech Stack:
@@ -68,6 +74,9 @@ Highly driven Computer Science Engineering student with a robust foundation in f
     </td>
   </tr>
 </table>
+
+
+
 
 
 
